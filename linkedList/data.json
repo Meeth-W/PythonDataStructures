@@ -1,33 +1,21 @@
 {
-    "ptr": 4,
+    "ptr": 0,
     "data": [
         {
             "data": "First",
-            "next": 7
-        },
-        {
-            "data": "Third",
-            "next": 2
-        },
-        {
-            "data": "Fourth",
-            "next": 4
-        },
-        {
-            "data": "Inserted At Start",
-            "next": -1
-        },
-        {
-            "data": "Inserted At End",
-            "next": null
-        },
-        {
-            "data": "Inserted After Second",
             "next": 1
         },
         {
-            "data": "Inserted at Index: 3",
-            "next": 5
+            "data": "Second",
+            "next": 2
+        },
+        {
+            "data": "Third",
+            "next": 3
+        },
+        {
+            "data": "Fourth",
+            "next": null
         }
     ]
 }
